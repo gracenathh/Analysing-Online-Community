@@ -1,3 +1,6 @@
+# author: Grace Nathania
+# created: 6 May 2020
+
 library(ggplot2)
 library(lattice)
 library(reshape2)
